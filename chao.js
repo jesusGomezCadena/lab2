@@ -1,1 +1,1 @@
-const despedida = "chau"
+const despedida = "chau dos"
