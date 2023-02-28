@@ -1,1 +1,1 @@
-const despedida = "chau sin merge"
+const despedida = "chau"
